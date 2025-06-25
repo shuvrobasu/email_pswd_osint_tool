@@ -60,7 +60,7 @@ python email_pswd_osint_tool.py
 5. Use the 'Tools' menu to access the password generator or register for a Zeruh API account.
 6. Save profiles or export verified emails to a CSV file via the 'File' menu.
 
-### The more information you provide, the greater number of passwords will be created 
+### The more information you provide, the greater number of passwords will be generated. 
 
 # Example
 
